@@ -1,5 +1,5 @@
 
-![Parth Logo](https://raw.githubusercontent.com/smop_technologies/parth/master/logo/parth_long.png)
+# .parth <img src="./logo/parth_long.png" style="height: h1.font-size"/>
 
 [![npm version](https://badge.fury.io/js/parth_test.svg)](https://badge.fury.io/js/parth_test)
 
