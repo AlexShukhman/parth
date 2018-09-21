@@ -1,5 +1,5 @@
 
-# .parth <img src="./logo/parth_long.png" style="height: h1.font-size"/>
+# <img src="./logo/parth_long.png" style="height: 1em"/> .parth
 
 [![npm version](https://badge.fury.io/js/parth_test.svg)](https://badge.fury.io/js/parth_test)
 
