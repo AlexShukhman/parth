@@ -1,4 +1,7 @@
-# .parth
+
+![Parth Logo](https://raw.githubusercontent.com/smop_technologies/parth/master/logo/parth_long.png)
+
+[![npm version](https://badge.fury.io/js/parth_test.svg)](https://badge.fury.io/js/parth_test)
 
 _A simplified testing framework for QA automation and continuous integration._
 
