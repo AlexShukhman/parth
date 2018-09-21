@@ -1,0 +1,32 @@
+{
+  "name": "parth_test",
+  "version": "1.0.0",
+  "description": "webhook for .parth QA automation language",
+  "bin": {
+    "parth": "bin/parth"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smop-technologies/parth.git"
+  },
+  "keywords": [
+    "Testing",
+    "QA Automation",
+    "Selenium",
+    "Parth",
+    "Smop",
+    "Continuous Integration"
+  ],
+  "author": "Smop Technologies",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/smop-technologies/parth/issues"
+  },
+  "homepage": "https://github.com/smop-technologies/parth#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "minimist": "^1.2.0",
+    "ora": "^3.0.0"
+  }
+}
