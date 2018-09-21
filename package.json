@@ -23,10 +23,11 @@
   "bugs": {
     "url": "https://github.com/smop-technologies/parth/issues"
   },
-  "homepage": "https://github.com/smop-technologies/parth#readme",
+  "homepage": "https://docs.smop.io/Owners/Getting_Started:_Parth_Files/",
   "dependencies": {
     "axios": "^0.18.0",
     "minimist": "^1.2.0",
     "ora": "^3.0.0"
-  }
+  },
+  "preferGlobal": true
 }
