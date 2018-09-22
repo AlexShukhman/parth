@@ -1,6 +1,6 @@
 {
   "name": "parth_test",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "webhook for .parth QA automation language",
   "bin": {
     "parth": "bin/parth"
