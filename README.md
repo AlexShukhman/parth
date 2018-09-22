@@ -1,5 +1,6 @@
 
 # Parth™ [![npm version](https://badge.fury.io/js/parth_test.svg)](https://badge.fury.io/js/parth_test)
+
 <img src="./logo/parth_long.png" height="45"/>
 
 _A simplified testing framework for QA automation and continuous integration._

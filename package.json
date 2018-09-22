@@ -1,5 +1,5 @@
 {
-  "name": "parth_test",
+  "name": "parth_cli",
   "version": "1.0.4",
   "description": "A simplified testing framework for QA automation and continuous integration.",
   "bin": {
@@ -19,7 +19,7 @@
     "Continuous Integration"
   ],
   "author": "Smop Technologies",
-  "license": "GNU",
+  "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/smop-technologies/parth/issues"
   },
