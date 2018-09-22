@@ -1,5 +1,5 @@
 
-# Parth™ [![npm version](https://badge.fury.io/js/parth_test.svg)](https://badge.fury.io/js/parth_test)
+# Parth™ [![npm version](https://badge.fury.io/js/parth_cli.svg)](https://badge.fury.io/js/parth_cli)
 
 <img src="./logo/parth_long.png" height="45"/>
 
