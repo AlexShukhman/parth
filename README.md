@@ -12,7 +12,7 @@ _A simplified testing framework for QA automation and continuous integration._
 ## Install
 
 ```
-npm install -g parth_test
+npm install -g parth_cli
 ```
 
 ## Requirements
