@@ -1,8 +1,17 @@
-const ora = require('ora');
-const axios = require('axios');
+const test = require('../utils/test');
 
-function parth(args) {
-    console.log('Still working on the functionality...')
+async function parth(args) {
+    try {
+        const r = args.repo || args.r;
+        const e = args.entry_point || args.e;
+        const t = args.type || args.t;
+        const p = args.parth || args.p;
+
+        await test(r,e,t,p);
+    }
+    catch (err) {
+        console.log(err);
+    }
 }
 
 module.exports = parth;

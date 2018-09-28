@@ -26,7 +26,7 @@ _For more help writing a .parth file, please see our documentation on the Smop d
 ## Run CLI
 
 ```bash
-parth test -r <repo url> -e <entry point filepath> -t <html or php> -p <parth filepath>
+parth test -r <repo url> -e <entry point filepath> -t <html or php> -p <.parth filepath>
 ```
 
 * We define the entry point to be the file that is being tested. For example, if the page you would like to test is within the file `./views/page.html` use that page as your entrypoint. (Note that entrypoints are defined using the relative filepath to the base of the project, ie the folder that is cloned via the repo url).
@@ -34,4 +34,4 @@ parth test -r <repo url> -e <entry point filepath> -t <html or php> -p <parth fi
   
 ## Warranty and Liability
 
-**_PLEASE NOTE:_** This software is offered for FREE with NO WARRANTY and LIMITED LIABILITY to the Parth™ team for the issues that may arise by using it under the [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html). If you have any issues with our software, please report them in our [github issues page](https://github.com/smop-technologies/parth/issues), but we cannot guarantee that those issues will be fixed in a reasonible or timely manner. If you intend on using Parth™, you must assume all risks of doing so.
+**_PLEASE NOTE:_** This software is offered for FREE with NO WARRANTY and LIMITED LIABILITY to the Parth™ team for the issues that may arise by using it under the [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html). If you have any issues with our software, please report them in our [github issues page](https://github.com/smop-technologies/parth/issues), but we cannot guarantee that those issues will be fixed in a reasonable or timely manner. If you intend on using Parth™, you must assume all risks of doing so.
