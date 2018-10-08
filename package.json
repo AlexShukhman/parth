@@ -1,6 +1,6 @@
 {
   "name": "parth_cli",
-  "version": "1.0.9",
+  "version": "1.1.0",
   "description": "A simplified testing framework for QA automation and continuous integration.",
   "bin": {
     "parth": "bin/parth"
